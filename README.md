@@ -1,0 +1,2 @@
+# yeni--baslangic
+test proyekt
